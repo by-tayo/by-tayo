@@ -1,6 +1,7 @@
 <div align="center">
 
-# Tania Ortiz — Cybersecurity @ UTSA
+# Tania Ortiz 
+Cybersecurity @ UTSA
 
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/by-tayo)
 [![ProtonMail](https://img.shields.io/badge/ProtonMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white)](mailto:taniaiortiz@protonmail.com)

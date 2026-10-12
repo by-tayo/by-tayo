@@ -1,7 +1,7 @@
 <div align="center">
 
 # Tania Ortiz 
-BBA Cybersecurity @ UTSA
+Cybersecurity @ UTSA
 
 [![ProtonMail](https://img.shields.io/badge/ProtonMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white)](mailto:taniaiortiz@protonmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tania--ortiz/)
@@ -25,7 +25,7 @@ BBA Cybersecurity @ UTSA
 
 <div align="center">
 
-![Skills](https://skillicons.dev/icons?i=python,html,css,js,docker,fastapi,nodejs,ts,aws,azure,gcp,git)
+![Skills](https://skillicons.dev/icons?i=python,html,css,js,docker,fastapi,ts,aws,azure,gcp,git)
 
 </div>
 

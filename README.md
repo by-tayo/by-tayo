@@ -21,6 +21,15 @@ Cybersecurity @ UTSA
 
 </div>
 
+
+### 💻 LeetCode
+
+<div align="center">
+
+[![LeetCode Stats](https://leetcard.jacoblin.cool/tortiz?theme=light,dark&ext=heatmap)](https://leetcode.com/u/tortiz)
+
+</div>
+
 ### 🛠️ Stack
 
 <div align="center">
